@@ -1,4 +1,2 @@
 # hello-world
-This is a test project to learn more about how GitHub works.
-
-I'm an avid gamer who has hopes of becoming a project manager in the IT field. My favorite video game is Dark Souls. I'm playing D&D for the first time ever on Saturday afternoon. I hope it's as fun as I think it will be!
+I've decided I want to takeover the world. This hello-world project is hereby renamed goodbye-world and will be used exclusively for the oppression of the masses. In order to takeover the world, I will need AT LEAST 50 sharks, 20 koalas, and 3 rubber bands. Plan in progress.
